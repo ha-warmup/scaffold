@@ -1,0 +1,14 @@
+{
+  "domain": "warmup",
+  "name": "warmup4ie",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/warmup",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@ha-warmup"
+  ]
+}
